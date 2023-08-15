@@ -1,5 +1,7 @@
-# Project Name
-> Outline a brief description of your project.
+# Bike Sharing Case Study
+A bike-sharing system is a service in which bikes are made available for shared use to individuals on a short term basis for a price or free. A US bike-sharing provider BoomBikes looking for increasing the revenue post Covid. The company wants to know:
+1. Which variables are significant in predicting the demand for shared bikes.
+2. How well those variables describe the bike demands
 
 
 ## Table of Contents
@@ -11,10 +13,13 @@
 <!-- You can include any other section that is pertinent to your problem -->
 
 ## General Information
-- Provide general information about your project here.
-- What is the background of your project?
-- What is the business probem that your project is trying to solve?
-- What is the dataset that is being used?
+- Step 1: Reading and Understanding the Data
+- Step 2: Visualising the Data
+- Step 3: Data Preparation
+- Step 4: Splitting the Data into Training and Testing Sets
+- Step 5: Building model
+- Step 6: Residual Analysis of the train data
+- Step 7: Model Evaluation and Prediction
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
